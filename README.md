@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on increasing my experience in web development. 
-- 🌱 I’m currently learning WebSockets
+- 🌱 I’m currently learning Search Engine Optimization best practices
 - 👯 I’m looking to collaborate on interesting projects with a good work environemnt. 
 - 🤔 I’m looking for help with Docker.
 - 💬 Ask me about React
